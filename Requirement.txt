@@ -1,0 +1,6 @@
+sklearn
+nltk
+pandas 
+tensorflow 
+re
+matplotlib
